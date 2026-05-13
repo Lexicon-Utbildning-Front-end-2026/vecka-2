@@ -1,1 +1,136 @@
-# vecka-2
+# 📅 Schema Vecka 2: HTML/CSS
+
+---
+
+## 📚 Material
+
+### 🛠️ Övningar
+* [code review (förra)](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/Code-Review---Receptsida-HTML-CSS)
+
+## 📅 Måndag: CSS reset, variabler, typografi, enheter
+
+CSS reset, varibler, typografi, enheter
+
+### 🎯 Mål för dagen
+
+* Förstå CSS reset
+* Använda variabler i CSS
+* Kunna välja mellan olika enheter CSS
+* Grundläggande om typografi samt google fonts
+
+### 📚 Material
+
+#### 💻 E-Learning
+* [(YT Kevin Powell)  3 modern CSS properties to add to your reset](https://www.youtube.com/watch?v=qI5rXLJnxco)
+* [(YT Kevin Powell) CSS Units](https://www.youtube.com/watch?v=Utc_uhvTluk)
+
+#### 📃 Läsning
+* [Minimal reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
+* [Tailwinds reset](https://tailwindcss.com/docs/preflight)
+* [Josh W Comeau Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+* [Om olika enheter - whatunit](https://whatunit.com/)
+* [Andy Bell - A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+* [(w3schools) CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
+* [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties)
+
+---
+
+## 📅 Tisdag: Clean CSS
+
+Hur vi kan göra vår CSS mer läsbar/hanterbar och mer effektiv.
+
+### 🎯 Mål för dagen
+
+* Variabler i CSS
+* Nestad CSS
+* Namngivningskonventioner i CSS (BEM-CUBE-Tailwind)
+
+### 📚 Material
+
+#### 💻 E-Learning
+* [(Pluralsight) Clean Code and Accessibility](https://app.pluralsight.com/ilx/video-courses/clips/06125ef3-cc36-4490-a93d-e7147305a13b)
+* [(YT Kevin Powell) Nesting CSS](https://www.youtube.com/watch?v=h4Xp1QgNkhU)
+
+#### 📃 Läsning
+* [Tailwind CSS - Styling with Utility Classes](https://tailwindcss.com/docs/styling-with-utility-classes)
+* [BEM.info](https://en.bem.info/methodology/css/)
+* [CUBE CSS](https://cube.fyi/)
+
+---
+
+## 📅 Onsdag: Selectors
+
+Selectors - CSS Pseudo-Classes: nth, first, has, is, where, not, hover/active/focus-visible
+Combinators: selectors/combinators (tag, id, class, >, *, +, ~, [attr])
+
+### 🎯 Mål för dagen
+
+* Olika avancerade selectors (som >, *, nth, &, has, is mm)
+
+### 📚 Material
+
+#### 💻 E-Learning
+* [(YT Kevin Powell) is(), where(), has() explained](https://www.youtube.com/watch?v=3ncFpP8GP4g)
+
+#### 📃 Läsning
+* [CSS Selectors](https://www.w3schools.com/CSSref/css_selectors.php)
+* [CSS Combinators](https://www.w3schools.com/CSSref/css_ref_combinators.php)
+* [(css-tricks) CSS Selectors](https://css-tricks.com/css-selectors/)
+* [(css-tricks) Specifics on CSS Specificity (frivillig)](https://css-tricks.com/specifics-on-css-specificity/)
+
+#### 🛠️ Övningar
+* [CSS Diner](https://flukeout.github.io/)
+
+---
+
+## 📅 Torsdag: Repetition
+
+Eget arbete och med kod och e-learning
+
+---
+
+## 📅 Fredag: Code review av tillgänglig receptsida
+
+Code review på receptsidan med tillgänglighetsanpassning och WAVE.
+
+Genomförande i grupp (3–4 personer)
+
+Varje student visar sin sidan, testar den i WAVE, och beskriver kort:
+
+När du byggde första versionen
+När ni gjorde första versionen: hur tänkte ni då kring struktur, HTML‐val och bilder?
+Utgick ni mest från att “få det att se rätt ut”, eller hade ni redan tankar om semantik och tillgänglighet?
+Vad var ni inte medvetna om då, som ni är medvetna om nu?
+Hur tänkte du kring layout och struktur?
+Vad du ändrade när du förbättrade sidan
+Vad gjorde du mer semantiskt?
+Något du gjorde om helt?
+Semantik i din HTML
+Förklara hur du tänkt kring t.ex:
+<header>, <main>, <section>, <article> — vad representerar vad?
+Rubriknivåerna (h1, h2, h3) — följer de en logisk struktur?
+Bilder — använder du alt-texter? Någon bild i <figure> + <figcaption>?
+Finns kontrastproblem, saknade alt-texter eller rubrikfel?
+Hur skulle du kunna åtgärda det i så fall?
+Diskussionsfrågor (i grupp)
+
+Samtala kort om:
+
+Vad blev förbättrat i era andra versioner?
+Var det svårt att arbeta semantiskt? Varför/varför inte?
+Vad lärde ni er av WAVE-analysen?
+Hur tänker ni kring när en bild är informativ och när den är dekorativ?
+Avslut i helklass
+
+Varje grupp delar:
+
+Vad var svårast i veckans uppgift?
+Vad tyckte ni i gruppen var mest användbart/intressant som ni lärde er av uppgiften?
+
+
+### 🎯 Mål för dagen
+
+* Reflektera över hur ni byggt sidan och hur ni förbättrat den i andra versionen, med fokus på semantik och tillgänglighet.
+* Fördjupa förståelsen genom att granska och diskutera kod.
+
+---

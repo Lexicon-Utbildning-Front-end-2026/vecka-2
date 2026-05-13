@@ -28,7 +28,7 @@ CSS reset, varibler, typografi, enheter
 * [(w3schools) CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
 * [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties)
 
-#### 🛠️ Övningar
+#### 🛠️ Övningar (gäller för resten av veckan)
 Testa olika sätt att skriva CSS utifrån det vi pratade om. Antingen till mindre HTML-sidor med samma struktur eller olika delar på samma sida. Viktigt att du får en känsla lite hur skillnaden är. 
 
 När du testat, försök att bestäm dig för vilken typ av CSS-struktur du vill ha och implementera det på din recept-sida. Tänk bara på att om du väljer utility first bör du skriva egna utitily klasser hellre än att använda färdiga för att lära dig bäst. 

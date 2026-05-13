@@ -2,11 +2,6 @@
 
 ---
 
-## 📚 Material
-
-### 🛠️ Övningar
-* [code review (förra)](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/Code-Review---Receptsida-HTML-CSS)
-
 ## 📅 Måndag: CSS reset, variabler, typografi, enheter
 
 CSS reset, varibler, typografi, enheter
@@ -91,42 +86,60 @@ Eget arbete och med kod och e-learning
 
 ## 📅 Fredag: Code review av tillgänglig receptsida
 
-Code review på receptsidan med tillgänglighetsanpassning och WAVE.
+**Code review på receptsidan med tillgänglighetsanpassning och WAVE.**
 
-Genomförande i grupp (3–4 personer)
+**Syfte:**  
+Reflektera över hur ni byggt sidan och hur ni förbättrat den i andra versionen, med fokus på **semantik** och **tillgänglighet**.
+
+**Förberedelser:**
+
+- Ha er kod redo (gärna med skärmdelning).
+- Installera **WAVE Evaluation Tool**:  
+    https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh
+
+-----------------------------------------------------------
+
+**Genomförande i grupp (4-5 personer)**
 
 Varje student visar sin sidan, testar den i WAVE, och beskriver kort:
 
-När du byggde första versionen
-När ni gjorde första versionen: hur tänkte ni då kring struktur, HTML‐val och bilder?
-Utgick ni mest från att “få det att se rätt ut”, eller hade ni redan tankar om semantik och tillgänglighet?
-Vad var ni inte medvetna om då, som ni är medvetna om nu?
-Hur tänkte du kring layout och struktur?
-Vad du ändrade när du förbättrade sidan
-Vad gjorde du mer semantiskt?
-Något du gjorde om helt?
-Semantik i din HTML
-Förklara hur du tänkt kring t.ex:
-<header>, <main>, <section>, <article> — vad representerar vad?
-Rubriknivåerna (h1, h2, h3) — följer de en logisk struktur?
-Bilder — använder du alt-texter? Någon bild i <figure> + <figcaption>?
-Finns kontrastproblem, saknade alt-texter eller rubrikfel?
-Hur skulle du kunna åtgärda det i så fall?
-Diskussionsfrågor (i grupp)
+1.  **När du byggde första versionen**
+    - **När ni gjorde första versionen: hur tänkte ni då kring struktur, HTML‐val och bilder?**  
+        Utgick ni mest från att “få det att se rätt ut”, eller hade ni redan tankar om semantik och tillgänglighet?
+    - Vad var ni inte medvetna om då, som ni är medvetna om nu?
+    - Hur tänkte du kring layout och struktur?
+2.  **Vad du ändrade när du förbättrade sidan**
+    - Vad gjorde du mer semantiskt?
+    - Något du gjorde om helt?
+3.  **Semantik i din HTML**  
+    Förklara hur du tänkt kring t.ex:
+    - &lt;header&gt;, &lt;main&gt;, &lt;section&gt;, &lt;article&gt; — vad representerar vad?
+    - Rubriknivåerna (h1, h2, h3) — följer de en logisk struktur?
+    - Bilder — använder du alt-texter? Någon bild i &lt;figure&gt; + &lt;figcaption&gt;?
+    - Finns kontrastproblem, saknade alt-texter eller rubrikfel?
+    - Hur skulle du kunna åtgärda det i så fall?
+
+-----------------------------------------------------------
+
+**Diskussionsfrågor (i grupp)**
 
 Samtala kort om:
 
-Vad blev förbättrat i era andra versioner?
-Var det svårt att arbeta semantiskt? Varför/varför inte?
-Vad lärde ni er av WAVE-analysen?
-Hur tänker ni kring när en bild är informativ och när den är dekorativ?
-Avslut i helklass
+- Vad blev förbättrat i era andra versioner?
+- Var det svårt att arbeta semantiskt? Varför/varför inte?
+- Vad lärde ni er av WAVE-analysen?
+- Hur tänker ni kring när en bild är **informativ** och när den är **dekorativ**?
+
+-----------------------------------------------------------
+
+**Avslut i helklass**
 
 Varje grupp delar:
 
-Vad var svårast i veckans uppgift?
-Vad tyckte ni i gruppen var mest användbart/intressant som ni lärde er av uppgiften?
+- Vad var svårast i veckans uppgift?
+- Vad tyckte ni i gruppen var mest användbart/intressant som ni lärde er av uppgiften?
 
+-----------------------------------------------------------
 
 ### 🎯 Mål för dagen
 

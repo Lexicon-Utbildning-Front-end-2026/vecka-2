@@ -86,6 +86,13 @@ Eget arbete och med kod och e-learning
 
 ## 📅 Fredag: Code review av tillgänglig receptsida
 
+### 🎯 Mål för dagen
+
+* Reflektera över hur ni byggt sidan och hur ni förbättrat den i andra versionen, med fokus på semantik och tillgänglighet.
+* Fördjupa förståelsen genom att granska och diskutera kod.
+
+-----------------------------------------------------------
+
 **Code review på receptsidan med tillgänglighetsanpassning och WAVE.**
 
 **Syfte:**  
@@ -138,12 +145,5 @@ Varje grupp delar:
 
 - Vad var svårast i veckans uppgift?
 - Vad tyckte ni i gruppen var mest användbart/intressant som ni lärde er av uppgiften?
-
------------------------------------------------------------
-
-### 🎯 Mål för dagen
-
-* Reflektera över hur ni byggt sidan och hur ni förbättrat den i andra versionen, med fokus på semantik och tillgänglighet.
-* Fördjupa förståelsen genom att granska och diskutera kod.
 
 ---

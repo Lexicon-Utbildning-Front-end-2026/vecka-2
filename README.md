@@ -66,7 +66,9 @@ Hur använder man tag, id, class, >, *, +, ~, [attr], nth, first, has, is, where
 
 ### 🎯 Mål för dagen
 
-* Olika avancerade selectors (som >, *, nth, &, has, is mm)
+* Förstå skillnaden mellan selectors, combinators och pseudo-classes
+* Förstå skillnanden i specificitet mellan de olika och när man kan använda vad
+* Kunna använda olika avancerade selectors (som >, *, nth, &, has, is mm)
 
 ### 📚 Material
 

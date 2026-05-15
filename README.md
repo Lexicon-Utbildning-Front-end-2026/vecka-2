@@ -20,6 +20,7 @@ CSS reset, varibler, typografi, enheter
 * [(YT Kevin Powell) CSS Units](https://www.youtube.com/watch?v=Utc_uhvTluk)
 
 #### 📃 Läsning
+Denna vecka är det mest lite olika förslag på resets. Några av dem nedan har också förklaringar som kan vara bra att läsa om. Se också till att utforska whatunit för att förstå det här med enheter samt läs igenom om variabler, de är väldigt användbara.
 * [Minimal reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
 * [Tailwinds reset](https://tailwindcss.com/docs/preflight)
 * [Josh W Comeau Reset](https://www.joshwcomeau.com/css/custom-css-reset/)

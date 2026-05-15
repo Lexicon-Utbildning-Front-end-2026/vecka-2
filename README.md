@@ -108,7 +108,7 @@ Reflektera över hur ni byggt sidan och hur ni förbättrat den i andra versione
 **Förberedelser:**
 
 - Ha er kod redo (gärna med skärmdelning).
-- Installera **WAVE Evaluation Tool**:  
+- Installera **WAVE Evaluation Tool** om ni inter redan gjort det:  
     https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh
 
 -----------------------------------------------------------
@@ -140,7 +140,7 @@ Varje student visar sin sidan, testar den i WAVE, och beskriver kort:
 Samtala kort om:
 
 - Vad blev förbättrat i era andra versioner?
-- Var det svårt att arbeta semantiskt? Varför/varför inte?
+- Var det svårt att arbeta semantiskt och med clean CSS? Varför/varför inte?
 - Vad lärde ni er av WAVE-analysen?
 - Hur tänker ni kring när en bild är **informativ** och när den är **dekorativ**?
 
@@ -150,7 +150,7 @@ Samtala kort om:
 
 Varje grupp delar:
 
-- Vad var svårast i veckans uppgift?
-- Vad tyckte ni i gruppen var mest användbart/intressant som ni lärde er av uppgiften?
+- Vad var svårast att få till med att uppdatera er receptsida enligt wcag/clean CSS?
+- Vad tyckte ni i gruppen var mest användbart/intressant som ni lärde de första två veckorna?
 
 ---

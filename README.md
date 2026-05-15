@@ -14,13 +14,14 @@ CSS reset, varibler, typografi, enheter
 * Grundläggande om typografi samt google fonts
 
 ### 📚 Material
+Denna vecka är det mest lite olika förslag på resets. Några av dem nedan har också förklaringar som kan vara bra att läsa om. Se också till att utforska whatunit för att förstå det här med enheter samt läs igenom om variabler, de är väldigt användbara.
 
 #### 💻 E-Learning
-* [(YT Kevin Powell)  3 modern CSS properties to add to your reset](https://www.youtube.com/watch?v=qI5rXLJnxco)
+* [(YT Kevin Powell) Master CSS Custom Properties](https://www.youtube.com/watch?v=40K1pvxEwlE)
 * [(YT Kevin Powell) CSS Units](https://www.youtube.com/watch?v=Utc_uhvTluk)
+* Extra med lite senare tillägg till reset [(YT Kevin Powell)  3 modern CSS properties to add to your reset](https://www.youtube.com/watch?v=qI5rXLJnxco)
 
 #### 📃 Läsning
-Denna vecka är det mest lite olika förslag på resets. Några av dem nedan har också förklaringar som kan vara bra att läsa om. Se också till att utforska whatunit för att förstå det här med enheter samt läs igenom om variabler, de är väldigt användbara.
 * [Minimal reset](https://codepen.io/kevinpowell/pen/QWxBgZX)
 * [Tailwinds reset](https://tailwindcss.com/docs/preflight)
 * [Josh W Comeau Reset](https://www.joshwcomeau.com/css/custom-css-reset/)

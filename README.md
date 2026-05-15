@@ -60,10 +60,9 @@ Hur vi kan göra vår CSS mer läsbar/hanterbar och mer effektiv.
 
 ---
 
-## 📅 Onsdag: Selectors
+## 📅 Onsdag: Selectors, Combinators & Pseudo-classes
 
-Selectors - CSS Pseudo-Classes: nth, first, has, is, where, not, hover/active/focus-visible
-Combinators: selectors/combinators (tag, id, class, >, *, +, ~, [attr])
+Hur använder man tag, id, class, >, *, +, ~, [attr], nth, first, has, is, where, not, hover/active/focus-visiblet?
 
 ### 🎯 Mål för dagen
 

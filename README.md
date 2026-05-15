@@ -45,7 +45,6 @@ Hur vi kan göra vår CSS mer läsbar/hanterbar och mer effektiv.
 
 ### 🎯 Mål för dagen
 
-* Variabler i CSS
 * Nestad CSS
 * Namngivningskonventioner i CSS (BEM-CUBE-Tailwind)
 

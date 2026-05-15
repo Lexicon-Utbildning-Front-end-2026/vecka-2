@@ -19,7 +19,7 @@ Denna vecka är det mest lite olika förslag på resets. Några av dem nedan har
 #### 💻 E-Learning
 * [(YT Kevin Powell) Master CSS Custom Properties](https://www.youtube.com/watch?v=40K1pvxEwlE)
 * [(YT Kevin Powell) CSS Units](https://www.youtube.com/watch?v=Utc_uhvTluk)
-* Extra med lite senare tillägg till reset [(YT Kevin Powell)  3 modern CSS properties to add to your reset](https://www.youtube.com/watch?v=qI5rXLJnxco)
+* Extra - Lite senare tillägg till reset [(YT Kevin Powell)  3 modern CSS properties to add to your reset](https://www.youtube.com/watch?v=qI5rXLJnxco)
 
 #### 📃 Läsning
 * [Minimal reset](https://codepen.io/kevinpowell/pen/QWxBgZX)

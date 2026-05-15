@@ -30,12 +30,12 @@ Denna vecka är det mest lite olika förslag på resets. Några av dem nedan har
 * [(w3schools) CSS Variables](https://www.w3schools.com/css/css3_variables.asp)
 * [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Cascading_variables/Using_custom_properties)
 
-#### 🛠️ Övningar (gäller för resten av veckan)
-Testa olika sätt att skriva CSS utifrån det vi pratade om. Antingen till mindre HTML-sidor med samma struktur eller olika delar på samma sida. Viktigt att du får en känsla lite hur skillnaden är. 
-
-När du testat, försök att bestäm dig för vilken typ av CSS-struktur du vill ha och implementera det på din recept-sida. Tänk bara på att om du väljer utility first bör du skriva egna utitily klasser hellre än att använda färdiga för att lära dig bäst. 
-
-Börja också göra om din CSS till att använda variabler, ändra till korrekta enheter och kanske lägga in någon fin font på receptsidan.
+#### 🛠️ Övningar
+* Lägg in en av de ovannämnda resets och se hur det fungerar med den kod ni redan har på receptsidan. Fixa sådant som går sönder efter det. 
+* Börja göra om din CSS till att använda variabler. Plocka ut saker som används oftare eller är viktiga, som färger, storlekar eller andra viktiga enheter.
+* Ändra till korrekta enheter (ta bort px på font-size framförallt). Se över att ni har lite konsekvent tänk i enheter.
+* Testa att lägga in någon fin, men läsbar font på receptsidan.
+* Om du är klar med receptsidan, öva vidare på andra sidor till du känner dig bekväm med att använda koncepten från dagen. Fortsätt med detta resten av veckan.
 
 ---
 
@@ -58,6 +58,11 @@ Hur vi kan göra vår CSS mer läsbar/hanterbar och mer effektiv.
 * [Tailwind CSS - Styling with Utility Classes](https://tailwindcss.com/docs/styling-with-utility-classes)
 * [BEM.info](https://en.bem.info/methodology/css/)
 * [CUBE CSS](https://cube.fyi/)
+
+#### 🛠️ Övningar
+Testa olika sätt att skriva CSS utifrån det vi pratade om. Antingen till mindre HTML-sidor med samma struktur eller olika delar på samma sida. Viktigt att du får en känsla lite hur skillnaden är. 
+
+När du testat, försök att bestäm dig för vilken typ av CSS-struktur (tisdagens föreläsning) du vill ha och implementera det på din recept-sida. Tänk bara på att om du väljer utility first bör du skriva egna utitily klasser hellre än att använda färdiga för att lära dig bäst. 
 
 ---
 

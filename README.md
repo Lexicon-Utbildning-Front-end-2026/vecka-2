@@ -9,8 +9,8 @@ CSS reset, varibler, typografi, enheter
 ### 🎯 Mål för dagen
 
 * Förstå CSS reset
-* Använda variabler i CSS
 * Kunna välja mellan olika enheter CSS
+* Använda variabler i CSS
 * Grundläggande om typografi samt google fonts
 
 ### 📚 Material

@@ -66,7 +66,13 @@ När du testat, försök att bestäm dig för vilken typ av CSS-struktur (tisdag
 
 ---
 
-## 📅 Onsdag: Selectors, Combinators & Pseudo-classes
+## 📅 Onsdag: Repetition
+
+Eget arbete och med kod och e-learning
+
+---
+
+## 📅 Torsdag: Selectors, Combinators & Pseudo-classes
 
 Hur använder man tag, id, class, >, *, +, ~, [attr], nth, first, has, is, where, not, hover/active/focus-visiblet?
 
@@ -89,12 +95,6 @@ Hur använder man tag, id, class, >, *, +, ~, [attr], nth, first, has, is, where
 
 #### 🛠️ Övningar
 * [CSS Diner](https://flukeout.github.io/)
-
----
-
-## 📅 Torsdag: Repetition
-
-Eget arbete och med kod och e-learning
 
 ---
 

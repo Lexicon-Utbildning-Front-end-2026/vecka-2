@@ -102,15 +102,10 @@ Hur använder man tag, id, class, >, *, +, ~, [attr], nth, first, has, is, where
 
 ### 🎯 Mål för dagen
 
-* Reflektera över hur ni byggt sidan och hur ni förbättrat den i andra versionen, med fokus på semantik och tillgänglighet.
+* Reflektera över hur ni byggt sidan och hur ni förbättrat den i andra versionen, med fokus på **semantik** och **tillgänglighet**.
 * Fördjupa förståelsen genom att granska och diskutera kod.
 
 -----------------------------------------------------------
-
-**Code review på receptsidan med tillgänglighetsanpassning och WAVE.**
-
-**Syfte:**  
-Reflektera över hur ni byggt sidan och hur ni förbättrat den i andra versionen, med fokus på **semantik** och **tillgänglighet**.
 
 **Förberedelser:**
 

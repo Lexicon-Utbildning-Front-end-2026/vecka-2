@@ -122,15 +122,14 @@ Reflektera över hur ni byggt sidan och hur ni förbättrat den i andra versione
 
 **Genomförande i grupp (4-5 personer)**
 
-Varje student visar sin sidan, testar den i WAVE, och beskriver kort:
+Varje student visar sin sida med och utan WAVE-tillägget, och beskriver kort:
 
 1.  **När du byggde första versionen**
-    - **När ni gjorde första versionen: hur tänkte ni då kring struktur, HTML‐val och bilder?**  
-        Utgick ni mest från att “få det att se rätt ut”, eller hade ni redan tankar om semantik och tillgänglighet?
-    - Vad var ni inte medvetna om då, som ni är medvetna om nu?
-    - Hur tänkte du kring layout och struktur?
+    - När ni gjorde versionen på test- och kartläggningen, hur tänkte ni då kring struktur, HTML‐val och bilder?
+    - Utgick ni mest från att “få det att se rätt ut”, eller hade ni redan tankar om semantik och tillgänglighet?
 2.  **Vad du ändrade när du förbättrade sidan**
     - Vad gjorde du mer semantiskt?
+    - Hur gjorde du för att få din CSS renare och bättre?
     - Något du gjorde om helt?
 3.  **Semantik i din HTML**  
     Förklara hur du tänkt kring t.ex:
@@ -158,7 +157,7 @@ Samtala kort om:
 
 Varje grupp delar:
 
-- Vad var svårast att få till med att uppdatera er receptsida enligt wcag/clean CSS?
-- Vad tyckte ni i gruppen var mest användbart/intressant/viktigt som ni lärde de första två veckorna?
+- Vad var svårast att få till med att uppdatera er receptsida enligt wcag/semantik/clean CSS?
+- Vad tyckte ni i gruppen var mest användbart/intressant/viktigt som ni lärt er de första två veckorna?
 
 ---

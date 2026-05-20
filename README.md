@@ -154,5 +154,6 @@ Varje grupp delar:
 
 - Vad var svårast att få till med att uppdatera er receptsida enligt wcag/semantik/clean CSS?
 - Vad tyckte ni i gruppen var mest användbart/intressant/viktigt som ni lärt er de första två veckorna?
+- Hur var det att prata om kod i grupp såhär?
 
 ---

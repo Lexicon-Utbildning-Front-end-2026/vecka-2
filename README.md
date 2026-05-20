@@ -150,6 +150,7 @@ Samtala kort om:
 - Var det svårt att arbeta semantiskt och med clean CSS? Varför/varför inte?
 - Vad lärde ni er av WAVE-analysen?
 - Hur tänker ni kring när en bild är **informativ** och när den är **dekorativ**?
+- Bestäm vem som för gruppens talan vid samlingen och vad den personen ska säga
 
 -----------------------------------------------------------
 
@@ -158,6 +159,6 @@ Samtala kort om:
 Varje grupp delar:
 
 - Vad var svårast att få till med att uppdatera er receptsida enligt wcag/clean CSS?
-- Vad tyckte ni i gruppen var mest användbart/intressant som ni lärde de första två veckorna?
+- Vad tyckte ni i gruppen var mest användbart/intressant/viktigt som ni lärde de första två veckorna?
 
 ---

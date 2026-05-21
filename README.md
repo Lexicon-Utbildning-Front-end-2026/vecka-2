@@ -92,6 +92,7 @@ Hur använder man tag, id, class, >, *, +, ~, [attr], nth, first, has, is, where
 * [CSS Combinators](https://www.w3schools.com/CSSref/css_ref_combinators.php)
 * [(css-tricks) CSS Selectors](https://css-tricks.com/css-selectors/)
 * [(css-tricks) Specifics on CSS Specificity (frivillig)](https://css-tricks.com/specifics-on-css-specificity/)
+* [(W3 Schools) CSS Pseudo-classes Reference](https://www.w3schools.com/CSSref/css_ref_pseudo_classes.php)
 
 #### 🛠️ Övningar
 * [CSS Diner](https://flukeout.github.io/)
